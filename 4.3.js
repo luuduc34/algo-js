@@ -16,7 +16,7 @@ console.log(mArray);
 /* Documentation of random function
 ------------------------------------
 - Declare an empty array variable mArray
-- Declare a variable val who stock a number entered by user for range of elements
+- Declare a variable val (get by user) for range of elements
 - Use multiRand function to get a random (getting with rand10() function) value for each element of your array :
 
 function multiRand(n) {
