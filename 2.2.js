@@ -9,3 +9,6 @@ if(minage > maxage) {
     else if(current > minage && current < maxage) {
         console.log('Current age : ' + current);
 }
+    else {
+        console.log('Current age must be in range of min and max !!!');
+    }
