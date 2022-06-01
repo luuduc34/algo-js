@@ -11,3 +11,6 @@ for (i = 0; i < Array2.length; i++) {
     sum += Array2[i];
 }
 console.log('Sum of ' + Array2 + ' is : ' + sum);
+
+// Solution Marlene
+// let sum = Array.reduce((previousvalue,currentvalue)=> previousvalue + currentvalue, 0); pour commencer à 0
